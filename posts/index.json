@@ -1,0 +1,53 @@
+{
+	"path": "posts",
+	"documents": [
+		{
+			"id": "c5",
+			"meta": {
+				"title": "GoWion - the klic management portal",
+				"tags": [
+					"gowion",
+					"project"
+				],
+				"url": "/posts/gowion-the-klic-management-portal.html",
+				"slug": "posts-gowion-the-klic-management-portal",
+				"name": "gowion-the-klic-management-portal.html",
+				"layout": "posts",
+				"date": "2014-12-19T00:00:00.000Z",
+				"intro": "Pipeline owners in The Netherlands have a legal obligation to manage their assets in accordance with the strict regulations. GoWion...\n"
+			},
+			"images": [
+				"/img/gowion/header.jpg",
+				"/img/gowion/overview-map.jpg",
+				"/img/gowion/state-list.jpg",
+				"/img/gowion/klic-detail.jpg",
+				"/img/gowion/contact-data.jpg",
+				"/img/gowion/technical-drawings.jpg"
+			]
+		},
+		{
+			"id": "c6",
+			"meta": {
+				"title": "N23 Westfrisiaweg",
+				"tags": [
+					"ddm",
+					"n23",
+					"project"
+				],
+				"url": "/posts/n23-westfrisiaweg.html",
+				"slug": "posts-n23-westfrisiaweg",
+				"name": "n23-westfrisiaweg.html",
+				"layout": "posts",
+				"date": "2014-12-20T00:00:00.000Z",
+				"intro": "The N23, a major road connecting west with east North Holland. A project span of several years, while generating thousands of documents and terabytes of data.\n"
+			},
+			"images": [
+				"/img/n23/header.jpg",
+				"/img/n23/viewer.jpg",
+				"/img/n23/datatable.jpg",
+				"/img/n23/dataroom.jpg",
+				"/img/n23/workflow.jpg"
+			]
+		}
+	]
+}

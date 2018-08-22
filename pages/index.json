@@ -1,0 +1,35 @@
+{
+	"path": "pages",
+	"documents": [
+		{
+			"id": "c3",
+			"meta": {
+				"title": "Contact",
+				"tags": null,
+				"url": "/pages/contact.html",
+				"slug": "pages-contact",
+				"name": "contact.html",
+				"layout": "pages",
+				"date": "2014-12-24T17:07:01.000Z"
+			},
+			"images": [
+				"/img/contact.jpg"
+			]
+		},
+		{
+			"id": "c4",
+			"meta": {
+				"title": "Home",
+				"tags": null,
+				"url": "/pages/home.html",
+				"slug": "pages-home",
+				"name": "home.html",
+				"layout": "pages",
+				"date": "2014-12-24T14:40:19.000Z"
+			},
+			"images": [
+				"/img/working-together.jpg"
+			]
+		}
+	]
+}

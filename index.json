@@ -1,0 +1,21 @@
+{
+	"path": ".",
+	"documents": [
+		{
+			"id": "c2",
+			"meta": {
+				"title": null,
+				"tags": null,
+				"url": "/index.html",
+				"slug": "index",
+				"name": "index.html",
+				"date": "2014-12-23T17:34:51.000Z",
+				"standalone": false,
+				"referenceOthers": true
+			},
+			"images": [
+				"/img/working-together.jpg"
+			]
+		}
+	]
+}
